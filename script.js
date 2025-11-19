@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const redirect = document.getElementById("W")
     redirect.addEventListener("click",()=>{
-        window.location.href = "https://codevelly.vercel.app/"
+        window.location.href = "https://www.codevelly.in/"
     })
 })
 
